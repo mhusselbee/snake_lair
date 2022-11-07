@@ -1,0 +1,1 @@
+[print(f'{x.lower()},') for x in [   "I'VE HAD IT WITH THESE MUTHAFUCKIN SNAKES","ON_THIS_MUTHAFUCKIN_PLANE!!" ]]
