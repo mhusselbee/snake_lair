@@ -6,10 +6,9 @@ A playground for python.
 
 ```bash
 # Install libraries
-pip install requirements.txt
+pip install -r requirements.txt
 
 # Run the mouse wiggler python script
 python3 wiggle.py
 
 ```
-
